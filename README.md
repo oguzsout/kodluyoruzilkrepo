@@ -29,3 +29,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 --------------------------------------------------
 
+## Image 
+
+![Aciklama Bilgisi](url)
+![Lorem Picsum](https://picsum.photos/200/300)
+
